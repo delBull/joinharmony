@@ -1,19 +1,17 @@
 const config = {
-    domain: "theproduct.com",
-    title: "Waitlist Page | The Product",
-    description: "Elevate your texts with the perfect emojis. Usemoji.app is coming soon! Join the waiting list for updates and exclusive access.",
+    domain: "harmonyearth.me",
+    title: "Únete a la causa | Harmony Ark Foundation",
+    description: "Únete a nuestra causa y sé la voz de los que no pueden defenderse. Juntos, podemos rescatar, proteger y brindar una vida digna a los animales en situación de riesgo. ¡Haz la diferencia hoy!",
     subscribeForm: "https://dashboard.mailerlite.com/forms/631411/101265918935434456/share",
 
     socials: {
-        twitter: "https://x.com/beratbozkurt0",
+        twitter: "https://x.com/arkharmony",
     },
 
     contents: {
-        title: "Discover Your Ideal Experience with The Product",
+        title: "Únete y Salva Vidas: Sé el Héroe de los Animales",
         markOfTitle: "The Product", // its for marking the title. The text must contain on title. If not, it will be ignored.
-        description: `Step into a realm of possibilities with The Product. Immerse yourself
-        in a shopping journey where intuitive features and cutting-edge design
-        come together to enhance your every selection.`,
+        description: `Únete a nuestra causa y sé la voz de los que no pueden defenderse. Juntos, podemos rescatar, proteger y brindar una vida digna a los animales en situación de riesgo. ¡Haz la diferencia hoy!`,
 
         about: [
             {
