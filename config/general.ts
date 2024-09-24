@@ -10,7 +10,7 @@ const config = {
 
     contents: {
         title: "Únete y Salva Vidas: Sé el Héroe de los Animales",
-        markOfTitle: "The Product", // its for marking the title. The text must contain on title. If not, it will be ignored.
+        markOfTitle: "Harmony", // its for marking the title. The text must contain on title. If not, it will be ignored.
         description: `Únete a nuestra causa y sé la voz de los que no pueden defenderse. Juntos, podemos rescatar, proteger y brindar una vida digna a los animales en situación de riesgo. ¡Haz la diferencia hoy!`,
 
         about: [
